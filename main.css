@@ -1,0 +1,163 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+header{
+	height: 130px;
+	background-size: 100%;
+	background-position: center;
+    background-color: orange;
+}
+ul{
+	list-style-type: none;
+	float: left;
+	margin-top: -10px;
+}
+ul li{
+	display: inline-block;
+
+}
+ul li a{
+	text-decoration: none;
+	color: blue;
+	padding: 5px 20px;
+	font-size: 20px;
+	font-weight: bold;
+
+
+}
+
+ul li a:hover{
+	background-color: brown;
+	color: #000;
+
+}
+
+ol li a:hover{
+	background-color: brown;
+	color: #000;
+
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+
+}
+h1{
+	color: black;
+	font-size: 40px;
+	text-align: center;
+
+}
+footer {
+    background-color:grey;
+    color:white;
+    clear:both;
+    padding:5px;
+    height: 235px;	
+    padding-left: 30px;
+    margin-top: 1px; 	 
+}
+button{
+  color: blue;
+  background-color: red;
+  height: 40px;
+  width: 9%;
+  font-size: 25px;
+  font-weight: bold;
+  	border: 2px solid black;
+  	margin-left: 90%;
+  	margin-top: -4px;
+  	border-radius: 8px;
+
+}
+.slider{
+  overflow: hidden;
+  height: 460px;
+  transform: translate(-30%,-30%);
+  position: absolute;
+  background-size: 100% 100%;
+  box-shadow: 2px 3px 10px  5px maroon;
+  margin-top: 10.6%;
+  margin-left: 44%;
+  width: 79%;
+
+
+}
+.slider figure{
+	position: relative;
+	width: 500%;
+	margin: 0;
+	left: 20%;
+	animation: 30s slider infinite;
+}
+.slider figure img{
+	width: 20%;
+	float: left;
+}
+@keyframes slider{
+0%{
+	left: 0;
+}
+20%{
+	left: 0;
+}
+25%{
+	left: -100%;
+}
+45%{
+	left: -100%;
+}
+50%{
+	left: -200%;
+}
+70%{
+	left: -200%;
+}
+75%{
+	left: -300%;
+}
+95%{
+	left: -300%;
+}
+100%{
+	left: -400%;
+}
+}
+
+.navA {
+    line-height:30px;
+    background-color:beige;
+    height:432px;
+    width:17%;
+    padding:20px;
+    text-align:left;
+    margin-top:0%;
+
+
+}
+.navA ol li a{
+	text-decoration: none;
+	color: blue;
+	padding: 5px 20px;
+	font-size: 20px;
+	font-weight: bold;
+    margin-left: -10%;
+
+}
+.search{
+	margin-top: -40px;
+	width: 15%;
+	float: right;
+}
+.search input{
+	width: 45%;
+	height: 30px;
+	font-weight: bold;
+	color: black;
+	font-size: 18px;
+}
+#copy{
+	float: left;
+}

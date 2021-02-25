@@ -1,0 +1,56 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+  background-position: center;
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-image: url(images/image9.jpg);
+}
+.regg{
+  width: 600px;
+  height: 490px;
+  top: 6%;
+  left: 30%;
+  position: absolute;
+  text-align: center;
+  margin: 0 auto;
+  background-color:cyan;
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.regg td{
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.regg td input{
+  width: 200%;
+  height: 30px;
+}
+
+h1{
+  text-align: center;
+  font-size: 35px;
+  font-weight: bolder;
+  color: blue;
+
+}
+.save{
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: green;
+  margin: 8px 400px;
+  border-radius: 8px;
+}
+ .regg a{
+  color: red;
+  float: left;
+  font-weight: bold;
+}
+

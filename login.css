@@ -1,0 +1,63 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-position: center;
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+	background-image: url(images/image9.jpg);
+	
+}
+.container{
+	width: 450px;
+	height: 280px;
+	top: 20%;
+	left: 30%;
+	position: absolute;
+	text-align: center;
+	margin: 0 auto;
+	background-color:cyan;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 20px;
+	font-weight: bold;
+}
+h1{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	color: blue;
+}
+.save {
+  color: black;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: green;
+  margin: 2px 340px;
+  border-radius: 8px;
+}
+.container td{
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: bold;
+  padding: 0;
+}
+
+.container td input{
+  width: 120%;
+  height: 30px;
+  margin: 15px;
+}
+  .container input[type="submit"]:hover;{
+  cursor: pointer;
+  background: #ffc107;
+  color: brown;
+
+}
+.container a{
+	color: red;
+}
+
+

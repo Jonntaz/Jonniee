@@ -1,0 +1,108 @@
+body{
+background-color: white;
+}
+	table{
+	background-color:orange ;
+}
+th{
+	font-size: 20px;
+	font-weight: bold;
+	color: blue;
+}
+.save{
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	float: right;
+	width: 8%;
+	height: 40px;
+	background-color: green;
+
+}
+button{
+  color: black;
+  background-color: red;
+  height: 30px;
+  width: 7%;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin: 5px;
+
+}
+h2{
+	font-weight: bolder;
+	font-size: 30px;
+}
+#gg td{
+	background: beige;
+}
+#gg p{
+	font-size: 16px;
+	font-weight: bold;
+}
+#tt{
+	width: 20%;
+}
+#tqt{
+	width: 25%;
+}
+#hh{
+	width: 20%;
+}
+#hhh{
+	width: 25%;
+}
+#dd{
+	width: 20%;
+}
+#aa{
+	width: 20%;
+}
+#bt{
+	background-color: blue;
+		  width: 100px;
+}
+#bt a{
+	color: black;
+}
+#btt{
+	background-color: red;
+	width: 100px;
+	  margin: 20px;
+
+}
+#bttt{
+	background-color: green;
+	width: 10%;
+	float: right;
+	font-size: 30px;
+	height: 40px;
+}
+#bk{
+	background-color: red;
+}
+#bk a{
+	color: black;
+}
+#ttt tr th{
+	width: 25%;
+}
+#ddd{
+	width: 25%;
+}
+#ss{
+	width:25%;
+}
+#ttt{
+	width: 25%;
+}
+#form1{
+	background-image: url(images/image11.jpg);">
+}
+#ww{
+	width: 20%;
+}#qq{
+	width: 25%;
+}

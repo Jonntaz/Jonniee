@@ -1,0 +1,79 @@
+#form1{
+	background-image: url(images/image11.jpg);">
+}table{
+	background-color: orange;
+}
+th{
+	font-size: 20px;
+	font-weight: bold;
+	color: blue;
+}
+.save{
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	float: right;
+	width: 8%;
+	height: 40px;
+	background-color: green;
+
+}
+button{
+  color: black;
+  height: 30px;
+  width: 100px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 8px;
+  margin: 5px;
+}
+h2{
+	font-weight: bolder;
+	font-size: 40px;
+}
+input{
+	height: 45px;
+}
+#gg td{
+	background:beige;
+	width: 16.667%;
+}
+#tt tr th{
+	width: 16.667%;
+}
+#gg p{
+	font-size: 16px;
+	font-weight: bold;
+}
+#bt{
+	background-color: blue;
+	margin-left: 20px;
+}
+#bt a{
+	color: black;
+
+}
+#btt{
+	background-color: red;
+	margin-left:20px;
+}
+#bttt{
+	background-color: green;
+	width: 10%;
+	float: right;
+	font-size: 30px;
+	height: 40px;
+}
+#back{
+	background-color: red;
+}
+#bk a{
+	color: black;
+}
+#ttt tr th{
+	width: 20%;
+}
+#ss td {
+	width: 20%;
+}
